@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
@@ -27,7 +27,7 @@
     </PackageReference>
     <PackageReference Include="Testcontainers" Version="3.2.0" />
     <PackageReference Include="Testcontainers.MariaDb" Version="3.2.0" />
-    <PackageReference Include="Testcontainers.MySql" Version="3.2.0" />
+    <PackageReference Include="Testcontainers.MySql" Version="3.6.0" />
   </ItemGroup>
 
   <ItemGroup>
